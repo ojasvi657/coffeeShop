@@ -4,6 +4,11 @@
 
 This project is a simple web application showcasing a coffee shop's offerings. It features a responsive layout where users can view different types of coffee products and place orders through an integrated form. 
 
+## Live Demo
+```bash
+https://ojasvicoffeeshop.netlify.app/
+```
+
 ## Table of Contents
 
 1. [Features](#features)
